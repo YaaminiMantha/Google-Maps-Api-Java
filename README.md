@@ -16,3 +16,10 @@ I have executed the code in Tomcat Apache Server 7.0
 
 localhost address to run the code:
 http://localhost:8080/mitta-webapp/
+
+Performance Number for the code is displayed in the console.
+
+Software Required:
+-Eclipse IDE.
+-Maven Integration for Eclipse.
+-Apache Tomcat Server
